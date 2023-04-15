@@ -1,1 +1,1 @@
-compilador utilizado : gcc
+
