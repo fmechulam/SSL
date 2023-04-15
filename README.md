@@ -1,1 +1,1 @@
-# SSL
+compilador utilizado : gcc
